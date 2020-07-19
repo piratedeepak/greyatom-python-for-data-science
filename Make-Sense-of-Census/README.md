@@ -27,6 +27,17 @@ You have been hired by 'CACT'(Census Analysis and Collection Team) to help with 
 ### Additional pointers
 
  I have well documented the code and as well as  I have uploaded a Data file (CSV)  for reference the code and how things working in the code.
+ 
+| Features           |               Description               |
+| --------------- ---|:---------------------------------------:|
+| age                |              Age of the person          |
+| education-num      |   No. of years of education they had    |
+| race               | Person's race
+KEY==> 0 : Amer-Indian-Eskimo
+1 : Asian-Pac-Islander
+2 : Black
+3 : Other
+4 : White     |
 
 ### THANK YOU
 
